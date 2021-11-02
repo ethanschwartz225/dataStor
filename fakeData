@@ -1,0 +1,65 @@
+{
+  "firstName": "Evan",
+  "lastName": "Swartz",
+  "email": "e.schwartz@yahoo.com",
+  "username": "ethanschwartz201",
+  "password": "Secretword!",
+  "school": "Boston College",
+  "courses": "CH214"
+  "credentials": "Teacher"
+
+}
+{
+  "firstName": "Michael",
+  "lastName": "Foop",
+  "email": "Mifoop@hotmail.com",
+  "username": "mikefoo@foo.net",
+  "password": "GRaw!",
+  "school": "New York University",
+  "courses": "SM101"
+  "credentials": "Teacher"
+
+}
+{
+  "firstName": "Laurie",
+  "lastName": "Maxwell",
+  "email": "laxwell@au.edu",
+  "username": "laxwell100",
+  "password": "Rammpooo!",
+  "school": "New School University",
+  "courses": "MU202"
+  "credentials": "Teacher"
+
+}
+{
+  "firstName": "Molly",
+  "lastName": "Davis",
+  "email": "Mavis@pu.edu",
+  "username": "mavistador98",
+  "password": "123321yay",
+  "school": "Tel Aviv University",
+  "courses": "JS300"
+  "credentials": "Teacher"
+
+}
+{
+  "firstName": "Gabby",
+  "lastName": "Foster",
+  "email": "gabfos@gwu.edu",
+  "username": "gfoster39",
+  "password": "iDontDoPasswords",
+  "school": "Cornell University",
+  "courses": "MA151"
+  "credentials": "Teacher"
+
+}
+{
+  "firstName": "Gabby",
+  "lastName": "Foster",
+  "email": "gabfos@gwu.edu",
+  "username": "gfoster39",
+  "password": "iDontDoPasswords",
+  "school": "Cornell University",
+  "courses": "MA151",
+  "credentials": "Teacher"
+}
